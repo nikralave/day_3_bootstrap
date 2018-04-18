@@ -1,0 +1,12 @@
+.callout {
+    background-image: url(../images/code.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    background-size: 100%;
+}
+
+
+.text-muted {
+    color: white;
+    font-style: bold;
+}

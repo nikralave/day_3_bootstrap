@@ -6,7 +6,8 @@
 }
 
 .navbar-default {
-    background-color: orange;
+    background-color:	#f5deb3;
+    font-family: 'Tajawal', sans-serif;
 }
 
 .quote {
@@ -16,5 +17,9 @@
 
 .quote p {
     padding-top:40px; 
+}
+
+body{
+  font-family: 'Tajawal', sans-serif; 
 }
 
