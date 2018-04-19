@@ -1,12 +1,45 @@
 .callout {
-    background-image: url(../images/code.jpg);
+    background-image: url(../images/codebackground.jpg);
     background-repeat: no-repeat;
     color: white;
-    background-size: 100%;
+    background-size: cover;
+}
+
+.callout h1 {
+    padding-top: 100px;
 }
 
 
 .text-muted {
     color: white;
-    font-style: bold;
+    font-weight: bold;
+}
+
+.courses p {
+    text-align: justify;
+}
+
+.courses img{
+    padding-left: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+iframe {
+    height:450px;
+    padding-bottom: 20px;
+}
+
+.footer {
+   height:100%;
+   width:100%;
+   background-color:#bcbcbc;
+   color:white;
+}
+
+.reason {
+    text-align: center;
 }
